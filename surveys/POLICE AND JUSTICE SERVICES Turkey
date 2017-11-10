@@ -1,0 +1,29 @@
+POLICE AND JUSTICE SERVICES:
+
+feature: amenity
+insights:
+    - FeatureAttributeCompleteness
+    - CountFeature
+    - MapperEngagement
+tags:
+    - addr:district
+    - addr:city
+    - addr:street
+    - name
+    - name:ar
+    - amenity:
+        - police
+        - court_house
+        - fire_station
+    - landuse:
+        - military
+    - military:
+        - barracks
+        - checkpoint
+        - training_area
+        - airfield
+        - office
+    - operator
+    - phone
+    - opening_hours
+    - description
