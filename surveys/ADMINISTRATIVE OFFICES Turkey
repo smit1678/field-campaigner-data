@@ -1,0 +1,24 @@
+ADMINISTRATIVE OFFICES:
+
+feature: office
+insights:
+    - FeatureAttributeCompleteness
+    - CountFeature
+    - MapperEngagement
+tags:
+    - addr:district
+    - addr:city
+    - addr:street
+    - name
+    - name:ar
+    - office:
+        - government
+        - lawyer
+        - charity
+        - company
+        - ngo
+        - notary
+        - estate_agent
+    - phone
+    - opening_hours
+    - description
