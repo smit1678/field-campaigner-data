@@ -1,0 +1,30 @@
+RELIGIOUS FACILITIES:
+
+feature: amenity
+insights:
+    - FeatureAttributeCompleteness
+    - CountFeature
+    - MapperEngagement
+tags:
+    - addr:district
+    - addr:city
+    - addr:street
+    - name
+    - name:ar
+    - amenity:
+        - place_of_worship
+    - religion:
+        - christian
+        - muslim
+        - jewish
+    - denomination:
+        - catholic
+        - roman_catholic
+        - orthodox
+        - protestant
+        - born_again
+        - sunni
+        - shia
+        - sufi
+    - phone
+    - description
