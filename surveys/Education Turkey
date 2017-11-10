@@ -1,0 +1,25 @@
+Education: 
+    
+feature: amenity
+insights:
+    - FeatureAttributeCompleteness
+    - CountFeature
+    - MapperEngagement
+tags:
+    - name
+    - name:ar
+    - amenity:
+        - kindergarten
+        - school
+        - college
+        - university
+        - language_school
+    - opening_hours
+    - operator
+    - fee:
+        - yes
+        - no
+    - phone
+    - addr:street
+    - addr:district
+    - addr:city
