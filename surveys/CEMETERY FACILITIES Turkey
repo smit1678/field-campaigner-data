@@ -1,0 +1,32 @@
+CEMETERY:
+
+feature: amenity
+insights:
+    - FeatureAttributeCompleteness
+    - CountFeature
+    - MapperEngagement
+tags:
+    - addr:district
+    - addr:city
+    - addr:street
+    - name
+    - name:ar
+    - amenity:
+        - grave_yard
+    - religion:
+        - christian
+        - muslim
+        - jewish
+    - denomination:
+        - catholic
+        - roman_catholic
+        - orthodox
+        - protestant
+        - born_again
+        - sunni
+        - shia
+        - sufi
+    - landuse:
+        - cemetry
+    - cemetry:
+        - grave
