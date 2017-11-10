@@ -1,0 +1,37 @@
+Health Facilities:
+
+feature: amenity
+insights:
+    - FeatureAttributeCompleteness
+    - CountFeature
+    - MapperEngagement
+tags:
+    - addr:city
+    - addr:district
+    - addr:street
+    - name
+    - name:ar
+    - amenity:
+        - clinic
+        - doctors
+        - hospital
+        - dentist
+        - veterinary
+    - operator
+    - phone
+    - opening_hours
+    - healthcare:speciality:
+        - community
+        - emergency
+        - general
+        - women
+        - traditional
+        - pediatrics
+        - geriatrics
+        - mental_health
+        - social_care
+        - blood_donation
+    - emergency:
+        - yes
+        - no
+    - description
