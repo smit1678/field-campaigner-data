@@ -1,0 +1,24 @@
+FINANCIAL INSTITUTIONS:
+
+feature: amenity
+insights:
+    - FeatureAttributeCompleteness
+    - CountFeature
+    - MapperEngagement
+tags:
+    - addr:district
+    - addr:city
+    - addr:street
+    - name
+    - name:ar
+    - amenity:
+        - bureau_de_change
+        - bank
+        - atm
+        - microfinance_bank
+        - money_transfer
+        - post_office
+    - operator
+    - phone
+    - opening_hours
+    - description
