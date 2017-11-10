@@ -1,0 +1,16 @@
+FACTORIES AND INDUSTRIES:
+    
+feature: man_made
+insights:
+    - FeatureAttributeCompleteness
+    - CountFeature
+    - MapperEngagement
+tags:
+    - name
+    - name:ar
+    - man_made:
+        - works
+    - products
+    - addr:district
+    - addr:city
+    - addr:street
